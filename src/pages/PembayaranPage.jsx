@@ -36,7 +36,7 @@ function PembayaranPage() {
     
     // Simulate API call
     setTimeout(() => {
-      const whatsappNumber = "6281234567890" // Nomor admin
+      const whatsappNumber = "628817789866" // Nomor admin
       const message = `*ORDER BARU - NYARITAWEH*
       
 Topik: ${topic.title}
